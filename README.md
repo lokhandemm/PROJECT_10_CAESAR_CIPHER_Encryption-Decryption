@@ -16,12 +16,3 @@ This is a simple Python program that implements the **Caesar Cipher**, a basic e
    - Decryption: Shifts letters backward.
 4. The result is displayed to the user.
 
-## 🛠 Installation & Usage
-### Prerequisites
-Ensure you have **Python 3** installed on your system.
-
-### Running the Script
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/caesar-cipher.git
-   cd caesar-cipher
