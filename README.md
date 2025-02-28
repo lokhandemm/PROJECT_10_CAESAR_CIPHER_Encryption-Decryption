@@ -7,7 +7,7 @@ This is a simple Python program that implements the **Caesar Cipher**, a basic e
 - Decrypt an encrypted message back to its original form.
 - Handles both uppercase and lowercase letters.
 - Retains spaces and special characters without modification.
-
+ 
 ## 🚀 How It Works
 1. The user chooses whether to **encrypt** or **decrypt** a message.
 2. The user inputs a message and a **shift value** (key).
