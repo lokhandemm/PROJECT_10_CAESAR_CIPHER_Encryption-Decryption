@@ -9,7 +9,7 @@ This is a simple Python program that implements the **Caesar Cipher**, a basic e
 - Retains spaces and special characters without modification.
  
 ## 🚀 How It Works
-1. The user chooses whether to **encrypt** or **decrypt** a message.
+1. The user chooses whether to **encrypt** or **decrypt** a message. 
 2. The user inputs a message and a **shift value** (key).
 3. The program shifts each letter in the message based on the key:
    - Encryption: Shifts letters forward.
